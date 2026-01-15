@@ -88,7 +88,3 @@ Visual comparisons of **actual vs. predicted values** were also created for the 
 - Matplotlib / Seaborn
 - Scikit-learn
 - Jupyter Notebook
-
----
-
-## 📁 Project Structure
